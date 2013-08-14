@@ -50,9 +50,6 @@
  */
 /* external stuff */
 #define NULL 0
-void exit(int);
-int printf(const char *, ...);
-int usleep(int);
 
 
 /*
